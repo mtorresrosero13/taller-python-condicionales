@@ -22,4 +22,4 @@ if distancia > 10:
 
 print("\nHorario:", tipo_horario)
 print("Distancia:", distancia, "km")
-print("Total a pagar: $", round(total, 2))
+print("Total a pagar: $", (total))
